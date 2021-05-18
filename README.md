@@ -1,5 +1,7 @@
 # Dino-game
  - Prototype still under development
+# Dino game demo
+![](dino_game_demo.gif)
 # About
  - Dino game is an interactive game replicating google chrome's no internet game.
  - Played in python shell (not graphics)
